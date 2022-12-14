@@ -1,0 +1,3 @@
+C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

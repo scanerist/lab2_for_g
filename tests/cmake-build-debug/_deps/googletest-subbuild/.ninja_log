@@ -1,0 +1,21 @@
+# ninja log v5
+0	34	6866991568948814	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b9667a7044398396
+0	34	6866991568948814	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	b9667a7044398396
+35	6285	6866991631455563	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	6a60d778b9f91669
+35	6285	6866991631455563	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	6a60d778b9f91669
+6286	6368	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	255275f409a2fc5d
+6286	6368	0	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	255275f409a2fc5d
+6368	6401	6866991632612035	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a48fab2e00538bcd
+6368	6401	6866991632612035	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a48fab2e00538bcd
+6401	6433	6866991632932102	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ec52a5206f977c83
+6401	6433	6866991632932102	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ec52a5206f977c83
+6433	6467	6866991633272370	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	99f2f981ec6c1370
+6433	6467	6866991633272370	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	99f2f981ec6c1370
+6467	6500	6866991633602607	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	b5b3558ccb8d8af0
+6467	6500	6866991633602607	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	b5b3558ccb8d8af0
+6500	6533	6866991633935352	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	782adec8c4804b4e
+6500	6533	6866991633935352	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	782adec8c4804b4e
+6533	6580	6866991634400678	CMakeFiles/googletest-populate-complete	d9e3530742c443bc
+6533	6580	6866991634400678	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	d9e3530742c443bc
+6533	6580	6866991634400678	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	d9e3530742c443bc
+6533	6580	6866991634400678	C:/Users/aliye/CLionProjects/labwork2-scanerist/tests/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	d9e3530742c443bc
